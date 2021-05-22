@@ -1,0 +1,4 @@
+
+
+class Config:
+    SECRET_KEY = '57667591684f782f1ce7675c929c43'

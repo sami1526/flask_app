@@ -1,0 +1,33 @@
+body {
+    height: 0;
+    background: url("./pics/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.hclr {
+    background-color: rgba(44, 62, 80,1);
+}
+.sz {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.btns a {
+    text-decoration: none;
+    
+}
+
+.bt1 {
+    background-color: #e67e22;
+}
+.bt2 {
+    background-color: #f39c12;
+}
+
+
+
+.box {
+    height: 100vh;
+}
